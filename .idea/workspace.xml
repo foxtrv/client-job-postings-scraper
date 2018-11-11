@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b83dd42-06a7-453b-aae0-728749b8e918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BasicCrawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/BasicCrawl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrintHelper.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrintHelper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Runner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Runner.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +17,9 @@
     <session id="-1154437477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,35 +34,36 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="855" />
+          <entry key="py" value="1646" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="855" />
+          <entry key="Python" value="1646" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Runner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="179">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
+                <marker date="1541966056000" expanded="true" signature="1395:1448" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BasicCrawl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
+            <state relative-caret-position="236">
+              <caret line="29" column="64" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="87" />
               <folding>
                 <element signature="e#93#123#0" expanded="true" />
               </folding>
@@ -69,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PrintHelper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -83,13 +88,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BasicCrawl.py" />
         <option value="$PROJECT_DIR$/PrintHelper.py" />
+        <option value="$PROJECT_DIR$/BasicCrawl.py" />
         <option value="$PROJECT_DIR$/Runner.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -99,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -110,7 +116,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,23 +202,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
       <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39941263" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32892805" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32892805" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32892805" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,93 +226,154 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BasicCrawl.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string># temp = PrintHelper(VideoAmp.text)
-# temp.removeAPPLY()
-# temp.removeFULLTIME()
-# print(temp.text)
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
 
-print(PrintHelper(VideoAmp.text).removeAPPLY().removeFULLTIME().text)</expression-string>
+for k, obj in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(obj.find_elements_by_class_name('jv-job-list-name'))
+    
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># temp = PrintHelper(VideoAmp.text)
-# temp.removeAPPLY()
-# temp.removeFULLTIME()
-# print(temp.text)
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
 
-print(PrintHelper(VideoAmp.text).removeAPPLY().removeFULLTIME())</expression-string>
+for k, obj in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(obj.find_elements_by_class_name('jv-job-list'))
+    
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>temp = PrintHelper(VideoAmp.text)
-temp.removeAPPLY()
-temp.removeFULLTIME()
-print(temp.text)</expression-string>
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
+
+for k, obj in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(obj.find_elements_by_class_name(class_name_one))
+    
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>temp = PrintHelper(VideoAmp.text)
-temp.removeAPPLY()
-print(temp.text)</expression-string>
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
+
+for k, obj in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(1+1)
+    for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+        self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>temp = PrintHelper(VideoAmp.text)
-print(temp.text)</expression-string>
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
+
+for obj in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(1+1)
+    for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+        self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>temp = PrintHelper(VideoAmp.text)
-print(temp)</expression-string>
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
+
+for k in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(1+1)
+    for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+        self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    # print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(VideoAmp.text.replace(&quot;APPLY&quot;, &quot;&quot;).replace(&quot;FULL-TIME&quot;, &quot;&quot;))
+        <expression-string># print(webDriver.find_elements_by_class_name('jv-careersite'))
 
-
-# temp1 = temp.removeAPPLY()
-# print(temp)
-# temp = temp.removeFULLTIME()
-# print(temp)
-
-# print(PrintHelper(VideoAmp.text).removeAPPLY().removeFULLTIME())</expression-string>
+for k in enumerate(webDriver.find_elements_by_class_name('jv-careersite')):
+    print(1+1)
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>print(VideoAmp.text.replace(&quot;APPLY&quot;, &quot;&quot;).replace(&quot;FULLTIME&quot;, &quot;&quot;))
+        <expression-string>print(webDriver.find_elements_by_class_name('jv-careersite').text)
 
-
-# temp1 = temp.removeAPPLY()
-# print(temp)
-# temp = temp.removeFULLTIME()
-# print(temp)
-
-# print(PrintHelper(VideoAmp.text).removeAPPLY().removeFULLTIME())</expression-string>
+for k in enumerate(webDriver.find_elements_by_class_name('jv-job-list')):
+    print(1+1)
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>temp1 = PrintHelper(VideoAmp.text)
-temp1 = temp1.removeAPPLY()
-print(temp1)
+        <expression-string>print(webDriver.find_elements_by_class_name('jv-careersite'))
 
-
-# temp1 = temp.removeAPPLY()
-# print(temp)
-# temp = temp.removeFULLTIME()
-# print(temp)
-
-# print(PrintHelper(VideoAmp.text).removeAPPLY().removeFULLTIME())</expression-string>
+for k in enumerate(webDriver.find_elements_by_class_name('jv-job-list')):
+    print(1+1)
+    # for count, i in enumerate(obj.find_elements_by_class_name(class_name_one)):
+    #     self.text += (str(count+1) + '. ' + i.text.replace('\n',' ')) + &quot;\n&quot;
+    print(k)
+            # for count, i in enumerate(obj.find_elements_by_class_name(class_name_two)):
+            #     self.text += (str(count + 1) + '. ' + i.text.replace('\n', ' ')) + &quot;\n&quot;
+            
+print(self.text)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -318,29 +383,30 @@ print(temp1)
     <entry file="file://$PROJECT_DIR$/Zume.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicCrawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="17" column="62" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
-          <folding>
-            <element signature="e#93#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PrintHelper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Runner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="179">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
+            <marker date="1541966056000" expanded="true" signature="1395:1448" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicCrawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="29" column="64" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="87" />
+          <folding>
+            <element signature="e#93#123#0" expanded="true" />
           </folding>
         </state>
       </provider>

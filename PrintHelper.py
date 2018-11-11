@@ -10,3 +10,7 @@ class PrintHelper:
     def removeFULLTIME(self):
         self.text = self.text.replace("FULL-TIME", "")
         return self
+
+    def removeVIEW(self):
+        self.text = self.text.replace("VIEW", "")
+        return self
